@@ -1,7 +1,6 @@
-# Keep this file separate
-
-def oauth() :
-    return { "consumer_key" : "h7Lu...Ng",
-        "consumer_secret" : "dNKenAC3New...mmn7Q",
-        "token_key" : "10185562-eibxCp9n2...P4GEQQOSGI",
-        "token_secret" : "H0ycCFemmC4wyf1...qoIpBo" }
+U2FsdGVkX18fYMuDaCLLzhVyUhCERUdAIJPgK3T64XOSA8TsnxadLg74djdpt3JE
+9llQ8gMTyEw25isPDwpmmNHKmQcXP09fR9miDaUuM7XuZEMuz4LlFO9N/Ec140Wi
+JB6RME7+jaESI4MZncF5Xi+pLAeIG4MMwEnPQRlVsH81Wm4wHWafwKuCDciXoTE8
+d3R1Mfs1UJb0SsmWe/gHvtqc5KOvF0H39huClWugr+/P8EVqzMEixVeYxIvISmC+
+W37j6/aHoZV5TSsrKkT6PL7dwU4i47sNPzBrEsRdrroJnxJaz8uGKPHSpHDG92+8
+jrF2/zxaO/4ItR52qnP6cmNLj+QY2g4FWUJufqjlo4Y=
